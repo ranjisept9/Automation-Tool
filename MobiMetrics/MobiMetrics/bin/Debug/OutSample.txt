@@ -1,0 +1,1593 @@
+
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+str-au	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Failure General:Total
+str-au	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-co	\Mobi: Charging Service Eci client counters\Requests:Total
+str-au	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+spt-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+spt-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+une-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+at1-at	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+swi-ch	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+str-au	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+swi-ch	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+swi-ch	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlh-hu	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Failure General:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+swi-ch	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-co	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+spt-us	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-nl	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+une-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-es	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+str-au	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-nl	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+tlh-hu	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+fon-es	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+xl0-id	\Mobi: Charging Service Eci client counters\Requests:Total
+tlh-hu	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+bas-be	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Failure General:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+bas-be	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-co	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Failure General:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+swi-ch	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-es	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Failure General:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Failure General:Total
+spt-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+vip-hr	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tlh-hu	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+xl0-id	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+bas-be	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Failure General:Total
+fon-co	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-es	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-es	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Failure General:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+at1-at	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gr	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+bas-be	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+bas-be	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+rog-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+rog-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+swi-ch	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+une-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+swi-ch	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vip-hr	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+bas-be	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+bas-be	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-co	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+tse-id	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+fon-es	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+str-au	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+rog-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+str-au	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-nl	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+at1-at	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Failure General:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-nl	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+dta-th	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gr	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+ius-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gr	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+tno-no	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tno-no	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+ind-id	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+at1-at	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gr	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+bas-be	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+rog-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+com-co	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+at1-at	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+swi-ch	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlh-hu	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-cl	\Mobi: Charging Service Eci client counters\Failure General:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+at1-at	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+dtn-th	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+org-ro	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+tno-no	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tlh-hu	\Mobi: Charging Service Eci client counters\Failure General:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+bas-be	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-de	\Mobi: Charging Service Eci client counters\Failure General:Total
+tmo-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+lus-ca	\Mobi: Charging Service Eci client counters\Requests:Total
+spt-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tmo-de	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Requests:Total
+cla-ar	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+org-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Failure General:Total
+mov-pe	\Mobi: Charging Service Eci client counters\Requests:Total
+sfr-fr	\Mobi: Charging Service Eci client counters\Requests:Total
+eli-fi	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+xl0-id	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-cz	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Failure General:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-gb	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tse-id	\Mobi: Charging Service Eci client counters\Failure General:Total
+fon-es	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+o2o-de	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+vod-it	\Mobi: Charging Service Eci client counters\Failure General:Total
+vod-za	\Mobi: Charging Service Eci client counters\Requests:Total
+att-us	\Mobi: Charging Service Eci client counters\Requests:Total
+tlc-mx	\Mobi: Charging Service Eci client counters\Requests:Total
+bee-ru	\Mobi: Charging Service Eci client counters\Requests:Total
+org-gb	\Mobi: Charging Service Eci client counters\Requests:Total
+mbs-be	\Mobi: Charging Service Eci client counters\Requests:Total

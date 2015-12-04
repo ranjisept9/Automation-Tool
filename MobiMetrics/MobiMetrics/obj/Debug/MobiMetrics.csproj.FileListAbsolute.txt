@@ -1,0 +1,12 @@
+c:\users\v-radand\documents\visual studio 2012\Projects\MobiMetrics\MobiMetrics\bin\Debug\MobiMetrics.exe.config
+c:\users\v-radand\documents\visual studio 2012\Projects\MobiMetrics\MobiMetrics\bin\Debug\MobiMetrics.exe
+c:\users\v-radand\documents\visual studio 2012\Projects\MobiMetrics\MobiMetrics\bin\Debug\MobiMetrics.pdb
+c:\users\v-radand\documents\visual studio 2012\Projects\MobiMetrics\MobiMetrics\obj\Debug\MobiMetrics.csprojResolveAssemblyReference.cache
+c:\users\v-radand\documents\visual studio 2012\Projects\MobiMetrics\MobiMetrics\obj\Debug\MobiMetrics.exe
+c:\users\v-radand\documents\visual studio 2012\Projects\MobiMetrics\MobiMetrics\obj\Debug\MobiMetrics.pdb
+\\wpscore\WPSPLAT\Gold\CPX\Tools\MoBiMetricsAutomation\MobiMetrics\MobiMetrics\bin\Debug\MobiMetrics.exe.config
+\\wpscore\WPSPLAT\Gold\CPX\Tools\MoBiMetricsAutomation\MobiMetrics\MobiMetrics\obj\Debug\MobiMetrics.exe
+\\wpscore\WPSPLAT\Gold\CPX\Tools\MoBiMetricsAutomation\MobiMetrics\MobiMetrics\obj\Debug\MobiMetrics.pdb
+D:\WorkFolderSync\Scripts\MoBiMetricsAutomation\MobiMetrics\MobiMetrics\bin\Debug\MobiMetrics.exe.config
+D:\WorkFolderSync\Scripts\MoBiMetricsAutomation\MobiMetrics\MobiMetrics\obj\Debug\MobiMetrics.exe
+D:\WorkFolderSync\Scripts\MoBiMetricsAutomation\MobiMetrics\MobiMetrics\obj\Debug\MobiMetrics.pdb
